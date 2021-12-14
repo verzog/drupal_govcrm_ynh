@@ -1,12 +1,12 @@
 {
-    "name": "Drupal",
+    "name": "govcmsDrupal",
     "id": "drupal",
     "packaging_format": 1,
     "description": {
         "en": "A content management framework written in PHP",
         "fr": "Un système de gestion de contenu écrit en PHP"
     },
-    "version": "8.9.15~ynh1",
+    "version": "7.x-3.x-~ynh1",
     "url": "https://www.drupal.org",
     "license": "GPL-2.0-or-later",
     "maintainer": {
