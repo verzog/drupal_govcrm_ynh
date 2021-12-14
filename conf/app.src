@@ -1,6 +1,6 @@
-SOURCE_URL=https://github.com/drupal-composer/drupal-project/archive/ec0f41171516c18357ca4cda9068ee4cdeabaa19.tar.gz
-SOURCE_SUM=aa94ea1e8a0cc382afb8e9f66b56af02ca7c60817403efc0e7b2a89c3dea09b8
-SOURCE_SUM_PRG=sha256sum
+SOURCE_URL=https://ftp.drupal.org/files/projects/govcms-7.x-3.24-core.tar.gz
+SOURCE_SUM=88b3d91bdc0244e800358bb61eccffabe74042c531e7b4ffa72190c5f071b11f46c6da0dce08da2c90015b7d3310fff5a77b5b389437b64d89910193b1ff87a3
+SOURCE_SUM_PRG=sha512sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
 SOURCE_FILENAME=
